@@ -11,7 +11,7 @@
 ![Captura de tela 2024-03-16 182046](https://github.com/soyclaudiodias/sistemas_operacionais/assets/113221142/87f733fe-653a-4d3f-b3c8-b2165903c788)
 
 # 2. Executar o programa
-``` ./exercicio1.c ```
+``` ./exercicio01.c ```
 
 ![Captura de tela 2024-03-11 075047](https://github.com/soyclaudiodias/sistemas_operacionais/assets/113221142/8219cabc-74e5-4495-ac61-ec790f23d3f0)
 
